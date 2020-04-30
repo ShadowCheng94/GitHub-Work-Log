@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要是找了Public Auditing for Shared Cloud Data with EfÞcient and Secure Group Management (18年Information Sciences),
+想看找一下有没有更好的方法来实现去除身份信息的方法。但这篇论文主要的贡献点主要是将群内用户共享数据的审计标签转化为群管理员的审计标签。
+和孙松师兄的密钥转化的方法是相同的，只是这个方法将用户数据的审计标签转化为群管理员签名的审计标签。准备再看看其中的细节。
